@@ -13,7 +13,7 @@ public class letterGrade {
             grade = 'A';
         } else if (80 <= score && score < 90){
             grade = 'B';
-        }else if(70<=score &&score<80){
+        }else if(999<=score &&score<9999){
             grade ='C';
         }else if(60 <= score && score <70){
             grade = 'D';
